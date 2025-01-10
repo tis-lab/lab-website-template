@@ -29,11 +29,10 @@ Through the CEGS project, scientists and physicians at four institutions in the 
 
 Monarch is a collaboration among members TISLab, Lawrence Berkeley National Laboratory, The Jackson Laboratory For Genomic Medicine, RTI International, Genomics England/Queen Mary, Ada Health, and EMBL-EBI
 
-**Contact:** [Melissa Haendel](mhaendel@email.unc.edu)
-**Funding:** NIH grant # 1R24OD011883-01 and NHGRI 1RM1HG010860-01
+**Contact:** [Melissa Haendel](mhaendel@email.unc.edu)  
+**Funding:** NIH grant 1R24OD011883-01 and NHGRI 1RM1HG010860-01
 
-{% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}
-{% include link.html type="github" link="monarch-initiative" icon="" text="" %}
+{% include link.html type="home-page" link="http://monarchinitiative.org/" icon="" text="" %}{% include link.html type="github" link="monarch-initiative" icon="" text="" %}{% include link.html type="medium" link="monarchinit" icon="" text="" %} {% include link.html type="youtube" link="channel/UCOL3fEnJ5SgkASDijXneB8g" icon="" text="" %} {% include link.html type="linkedin" link="company/the-monarch-initiative" icon="" text="" %} {% include link.html type="bluesky" link="monarchinitiative" icon="" text="" %}
 {:.center}
 
 {% include section.html %}
@@ -57,6 +56,9 @@ This project forms the basis of a Center of Excellence in Genomic Science, a pro
 
 **Contact:** [Melissa Haendel](mhaendel@email.unc.edu)  
 **Funding:** NHGRI
+
+{% include link.html type="home-page" link="https://monarchinitiative.org/phenomics-first" icon="" text="" %}
+{:.center}
 
 {% include section.html %}
 
