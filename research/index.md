@@ -165,6 +165,24 @@ Learn more at the [CD2H N3C page](https://covid.cd2h.org/).
 
 {% include section.html %}
 
+### BioData Catalyst Data Management Core (BDC DMC)
+
+{%
+  include figure.html
+  image="images/research/n3c.png"
+  width="400px"
+%}
+
+[NHLBI BioData Catalyst® (BDC)](https://biodatacatalyst.nhlbi.nih.gov/) is a cloud-based ecosystem that offers researchers data, analytic tools, applications, and workflows in secure workspaces. It is a community where researchers can find, access, share, store, and analyze heart, lung, blood, and sleep data resources. And it is one of NHLBI’s data repositories, where researchers share scientific data from NHLBI-funded research so they and others can reproduce findings and reuse data to advance science. By increasing access to NHLBI data and innovative analytic capabilities, BDC accelerates reproducible biomedical research to drive scientific advances that can help prevent, diagnose, and treat heart, lung, blood, and sleep disorders.
+
+**Contact:** [Anne Thessen](mailto:anne@tislab.org)  
+**Funding:** National Institutes of Health's National Heart, Lung, and Blood Institute, Grant Number OT2HL167310
+
+{% include link.html type="home-page" link="https://biodatacatalyst.nhlbi.nih.gov/" icon="" text="" %}
+{:.center}
+
+{% include section.html %}
+
 # <i class="fas fa-microscope"></i>Past Research
 
 {% include section.html %}
